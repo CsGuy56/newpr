@@ -39,7 +39,7 @@ const Home = () => {
           </div>
           <h2 className="text-4xl md:text-7xl font-bold py-3">
             Most Fresh fruits Delivery {" "}
-            <span className="text-red-600 text-">Your Home</span>
+            <span className="text-red-600 text-">in Your Home</span>
           </h2>
           <p className="py-3 text-base ">
           Welcome to FruitCart: Your Online Marketplace for Nature's Bounty!
